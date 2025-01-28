@@ -1,0 +1,17 @@
+<map id="src/sysrepo_types.h" name="src/sysrepo_types.h">
+<area shape="rect" id="Node000001" title="public sysrepo types header" alt="" coords="278,5,415,30"/>
+<area shape="rect" id="Node000002" href="$plugins__datastore_8h.html" title="API for datastore plugins." alt="" coords="5,78,162,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,37,128,80,126,75,288,32"/>
+<area shape="rect" id="Node000003" href="$plugins__notification_8h.html" title="API for notification plugins." alt="" coords="186,78,352,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="324,43,283,80,280,76,320,39"/>
+<area shape="rect" id="Node000004" href="$sysrepo_8h.html" title="public API sysrepo header" alt="" coords="376,78,474,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,38,414,76,410,80,369,42"/>
+<area shape="rect" id="Node000008" href="$error__format_8h.html" title="Functions for simplified manipulation with callback errors." alt="" coords="498,78,650,103"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="399,32,537,75,536,80,397,37"/>
+<area shape="rect" id="Node000005" href="$netconf__acm_8h.html" title="NACM functionality header." alt="" coords="184,151,341,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,112,290,153,288,148,383,107"/>
+<area shape="rect" id="Node000006" href="$values_8h.html" title="Functions for simplified manipulation with Sysrepo values." alt="" coords="365,151,484,175"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="428,118,428,150,422,150,422,118"/>
+<area shape="rect" id="Node000007" href="$xpath_8h.html" title="Sysrepo helpers for node&#39;s address manipulation." alt="" coords="509,151,623,175"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="463,108,544,148,542,152,461,112"/>
+</map>

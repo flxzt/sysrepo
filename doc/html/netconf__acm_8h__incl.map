@@ -1,0 +1,27 @@
+<map id="src/utils/netconf_acm.h" name="src/utils/netconf_acm.h">
+<area shape="rect" id="Node000001" title="NACM functionality header." alt="" coords="242,5,400,30"/>
+<area shape="rect" id="Node000002" href="$sysrepo_8h.html" title="public API sysrepo header" alt="" coords="277,78,365,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,31,324,62,318,62,318,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,151,69,175"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,105,84,153,83,147,276,100"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,151,157,175"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,106,172,148,170,143,288,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="181,151,269,175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="307,105,254,144,251,139,304,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="292,151,350,175"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="324,103,324,135,318,135,318,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="374,151,441,175"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="337,101,384,139,380,143,334,105"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="466,151,582,175"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="355,101,477,143,475,148,354,106"/>
+<area shape="rect" id="Node000009" href="$sysrepo__types_8h.html" title="public sysrepo types header" alt="" coords="606,151,721,175"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="366,98,593,144,591,150,365,103"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="494,223,551,248"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="642,178,561,218,558,214,639,174"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="575,223,654,248"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="658,177,633,212,629,209,653,174"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="678,223,745,248"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="674,174,698,209,693,212,669,177"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="770,223,846,248"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="689,173,771,214,769,219,686,178"/>
+</map>

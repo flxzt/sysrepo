@@ -1,0 +1,15 @@
+<map id="src/utils/error_format.h" name="src/utils/error_format.h">
+<area shape="rect" id="Node000001" title="Functions for simplified manipulation with callback errors." alt="" coords="60,5,211,30"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,78,122,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,32,88,69,84,65,122,29"/>
+<area shape="rect" id="Node000003" href="$sysrepo__types_8h.html" title="public sysrepo types header" alt="" coords="145,78,272,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,29,188,65,184,69,146,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="39,151,96,175"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,106,106,146,103,141,184,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="120,151,199,175"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="203,105,178,139,174,136,199,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="223,151,290,175"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="219,102,243,136,238,139,215,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="315,151,391,175"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="234,101,317,141,314,146,231,106"/>
+</map>

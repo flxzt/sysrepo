@@ -1,0 +1,9 @@
+<map id="src/sysrepo.h" name="src/sysrepo.h">
+<area shape="rect" id="Node000001" title="public API sysrepo header" alt="" coords="198,5,296,30"/>
+<area shape="rect" id="Node000002" href="$netconf__acm_8h.html" title="NACM functionality header." alt="" coords="5,78,163,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,39,112,80,110,75,205,34"/>
+<area shape="rect" id="Node000003" href="$values_8h.html" title="Functions for simplified manipulation with Sysrepo values." alt="" coords="187,78,306,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,46,249,78,244,78,244,46"/>
+<area shape="rect" id="Node000004" href="$xpath_8h.html" title="Sysrepo helpers for node&#39;s address manipulation." alt="" coords="331,78,445,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,35,366,75,363,80,283,40"/>
+</map>
